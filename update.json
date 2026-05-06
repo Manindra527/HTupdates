@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7",
+  "version": "1.0.1",
   "apkUrl": "https://manindra527.github.io/HTupdates/HabitPulse.apk",
-  "message": "New update available"
+  "notes": "Bug fixes and UI improvements",
+  "mandatory": false
 }
